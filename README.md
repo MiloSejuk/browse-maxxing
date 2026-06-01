@@ -68,7 +68,7 @@
    First, download and install the Tampermonkey extension for your browser:
    * [Tampermonkey for Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    * [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   * [Tampermonkey for Chrome / Edge / Brave](https://www.tampermonkey.net/)
+   * [Tampermonkey for Edge / Brave / Others](https://www.tampermonkey.net/)
   
 3. **Setup Tampermonkey:**
    * Find Tampermonkey in browser extensions > click "More options" (⋮) > click "Manage extension" > enable "Allow User Scripts"
