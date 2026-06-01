@@ -84,4 +84,4 @@
 6. **Sign Up/Log In account**
    Open www.google.com > when prompted cross-origin permission, click "always allow domain" > click at grey floating button on the left
 
-**DONE**
+**ENJOY**
